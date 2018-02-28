@@ -1,0 +1,12 @@
+Assumptions / shortcuts / notes.
+
+I wasted plenty of time getting my visual studio up to date.
+I cannot imagine the head ache to update my MSSQL. I'll accept the blame.
+Thus, I used an in memory database. Sorry. (not sorry.)
+
+Since it was not clearly stated I didn't go into the depth of the 
+'Zero to Many' Relationships between Artist / Album / Song in that,
+More correct methods would be added to expand the functionality of the web API.
+Such methods would include for example an "AddSong" to the Album Model. 
+
+If you'd like to come back with a more robust set of requirements I'm all ears.

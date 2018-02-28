@@ -1,0 +1,11 @@
+D:\vsprojects\music\music\bin\Debug\netcoreapp2.0\music.deps.json
+D:\vsprojects\music\music\bin\Debug\netcoreapp2.0\music.runtimeconfig.json
+D:\vsprojects\music\music\bin\Debug\netcoreapp2.0\music.runtimeconfig.dev.json
+D:\vsprojects\music\music\bin\Debug\netcoreapp2.0\music.dll
+D:\vsprojects\music\music\bin\Debug\netcoreapp2.0\music.pdb
+D:\vsprojects\music\music\obj\Debug\netcoreapp2.0\music.csprojResolveAssemblyReference.cache
+D:\vsprojects\music\music\obj\Debug\netcoreapp2.0\music.csproj.CoreCompileInputs.cache
+D:\vsprojects\music\music\obj\Debug\netcoreapp2.0\music.AssemblyInfoInputs.cache
+D:\vsprojects\music\music\obj\Debug\netcoreapp2.0\music.AssemblyInfo.cs
+D:\vsprojects\music\music\obj\Debug\netcoreapp2.0\music.dll
+D:\vsprojects\music\music\obj\Debug\netcoreapp2.0\music.pdb
